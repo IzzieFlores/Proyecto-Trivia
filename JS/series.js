@@ -18,8 +18,8 @@ const preguntas = [
     },
 
     {
-        pregunra: "La serie 'Hannibal' contó con un asesor de cocina de altura. ¿Quién?",
-        respuesta: ["Ferrán Adriá", "Martín Berasategui", "José Andrés"],
+        pregunta: "La serie que trata sobre el reinado de la reina Isabel II es…",
+        respuesta: ["Peaky Blinders", "Atypical", "Bridgerton", "The Crown"],
         correcta: 3
     }
 ];

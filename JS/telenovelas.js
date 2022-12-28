@@ -19,7 +19,7 @@ const preguntas = [
 
     {
         pregunta: "¿En qué año se transmitió la primera novela mexicana?",
-        respuesta: ["1909", "1968", "1958", "1900"],
+        respuesta: ["1909", "1968", "1900", "1958"],
         correcta: 3
     }
 ];

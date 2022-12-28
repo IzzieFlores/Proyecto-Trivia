@@ -1,13 +1,13 @@
 const preguntas = [
     {
         pregunta: "¿Cuál es el deporte nacional de Cánada?",
-        respuesta: ["Bolos", "Baloncesto", "Lacrosse", "Fútbol"],
+        respuesta: ["Bolos", "Lacrosse", "Baloncesto", "Fútbol"],
         correcta: 1
     },
 
     {
         pregunta: "¿Qué boxeador fue conocido como 'El más grande' y 'El campeón del pueblo'?",
-        respuesta: ["Mike Tyson", "Muhammad Ali", "Floyd Mayweather", "Oscar de la Hoya"],
+        respuesta: ["Mike Tyson", "Floyd Mayweather", "Muhammad Ali", "Oscar de la Hoya"],
         correcta: 2
     },
 
@@ -19,7 +19,7 @@ const preguntas = [
 
     {
         pregunta: "¿Qué deporte tiene un equipo llamado foil?",
-        respuesta: ["Polo", "Golf", "Esgrima", "Boxeo"],
+        respuesta: ["Polo", "Golf", "Boxeo", "Esgrima"],
         correcta: 3
     }
 ];

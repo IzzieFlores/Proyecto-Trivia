@@ -18,8 +18,8 @@ const preguntas = [
     },
 
     {
-        pregunta: "¿A qué año viajan Marty y Doc en 'Regreso al Futuro II'?",
-        respuesta: ["2016", "2015", "2014", "2012"],
+        pregunta: "¿Cuál fue el símbolo de Katniss Everdeen en Los juegos del hambre?",
+        respuesta: ["Águila", "Leona", "Cisne", "Sinsajo"],
         correcta: 3
     }
 ];

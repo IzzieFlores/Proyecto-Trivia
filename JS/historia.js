@@ -1,25 +1,25 @@
 const preguntas = [
     {
         pregunta: "¿Cuántos alunizajes tripulados ha habido?",
-        respuesta: ["Ocho", "Cinco", "Seis", "Siete"],
+        respuesta: ["Ocho", "Seis", "Cinco", "Siete"],
         correcta: 1
     },
 
     {
         pregunta: "¿Cuál era el nombre original de la cuidad de New York?",
-        respuesta: ["Nueva Ámsterdam", "La gran manzana", "Empire State", "Gotham"],
+        respuesta: ["Empire State", "La gran manzana", "Nueva Ámsterdam", "Gotham"],
         correcta: 2
     },
 
     {
         pregunta: "¿Qué emperador romano legalizó el cristianismo y puso fin a la persecución de los cristianos?",
-        respuesta: ["Nerón", "Adriano", "Trajano", "Constantino"],
+        respuesta: ["Constantino", "Adriano", "Trajano", "Nerón"],
         correcta: 0
     },
 
     {
-        pregunta: "¿Qué famoso filósofo fue maestro de Alejaqndro Magno durante cinco años?",
-        respuesta: ["Sócrates", "Aristóteles", "Platón", "Descartes"],
+        pregunta: "¿Qué famoso filósofo fue maestro de Alejandro Magno durante cinco años?",
+        respuesta: ["Sócrates", "Descartes", "Platón", "Aristóteles"],
         correcta: 3
     }
 ];

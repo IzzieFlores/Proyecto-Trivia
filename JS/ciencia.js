@@ -7,7 +7,7 @@ const preguntas = [
 
     {
         pregunta: "¿Quién fue la primera persona en ver las lunas de Júpiter?",
-        respuesta: ["Galileo Galilei", "Albert Einstein", "Isaac Newton", "Nicolaus Copernicus"],
+        respuesta: ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nicolaus Copernicus"],
         correcta: 2
     },
 
@@ -19,7 +19,7 @@ const preguntas = [
 
     {
         pregunta: "¿Quién inventó la bombilla eléctrica?",
-        respuesta: ["Thomas Alva Edison", "Alexander Graham Bell", "Marie Curie", "Nikola Tesla"],
+        respuesta: ["Nikola Tesla", "Alexander Graham Bell", "Marie Curie", "Thomas Alva Edison"],
         correcta: 3
     }
 ];
