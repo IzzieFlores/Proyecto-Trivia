@@ -13,7 +13,7 @@ const preguntas = [
 
     {
         pregunta: "¿Cuál es el diámetro de un aro de baloncesto en cm?",
-        respuesta: ["45.72 cm", "48.26 cm", "43.18 cm", "40.64 cm"],
+        respuesta: ["45.72 c", "48.26 cm", "43.18 cm", "40.64 cm"],
         correcta: 0
     },
 
