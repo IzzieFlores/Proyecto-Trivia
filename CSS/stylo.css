@@ -17,7 +17,7 @@ p{
 .presentacion{
     border: 2px solid black;
     background-color: white;
-    height: 550px;
+    height: 400px;
     width: 50%;
     border-radius: 50px;
     margin: auto;
@@ -55,7 +55,7 @@ p{
 .presentacion2{
     border: 2px solid black;
     background-color: white;
-    height: 600px;
+    height: 550px;
     width: 60%;
     border-radius: 50px;
     margin: auto;
@@ -119,7 +119,7 @@ p{
     margin-top: 50px;
 }
 
-.botonTrivias {
+.botonTrivias{
     font-family: 'Indie Flower', cursive;
     border-radius: 10px;
     border: 1px outset black;
